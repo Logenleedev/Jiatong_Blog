@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Jiatong",
-    "home_page_url": "http://localhost:4000/",
-    "feed_url": "http://localhost:4000/feed.json",
+    "home_page_url": "https://logenleedev.github.io/Jiatong_Blog/",
+    "feed_url": "https://logenleedev.github.io/Jiatong_Blog/feed.json",
     "description": "Jiatong's Blog Post",
-    "icon": "http://localhost:4000/apple-touch-icon.png",
-    "favicon": "http://localhost:4000/favicon.ico",
+    "icon": "https://logenleedev.github.io/Jiatong_Blog/apple-touch-icon.png",
+    "favicon": "https://logenleedev.github.io/Jiatong_Blog/favicon.ico",
     "expired": false,
     
     "author":  {
@@ -17,12 +17,12 @@
 "items": [
     
         {
-            "id": "http://localhost:4000/2022/06/07/opening-message",
+            "id": "https://logenleedev.github.io/Jiatong_Blog/2022/06/07/opening-message",
             "title": "Opening Message",
             "summary": "Opening Message",
             "content_text": "This is my first blog post! I will create some awesome contents related to design, technology, and my thought to research soon after! Stay tuned!",
             "content_html": "<p>This is my first blog post! I will create some awesome contents related to design, technology, and my thought to research soon after! Stay tuned!</p>",
-            "url": "http://localhost:4000/2022/06/07/opening-message",
+            "url": "https://logenleedev.github.io/Jiatong_Blog/2022/06/07/opening-message",
             
             
             
