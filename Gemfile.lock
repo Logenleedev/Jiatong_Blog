@@ -85,5 +85,4 @@ DEPENDENCIES
   wdm (>= 0.1.0)
   webrick
 
-BUNDLED WITH
-   2.2.26
+
