@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "npm run build"
+  },
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
