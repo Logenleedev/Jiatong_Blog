@@ -4,7 +4,7 @@
  <title>Jiatong</title>
  <link href="https://jiatong-blog.vercel.app///atom.xml" rel="self"/>
  <link href="https://jiatong-blog.vercel.app///"/>
- <updated>2022-06-08T00:18:50+00:00</updated>
+ <updated>2022-06-08T00:28:57+00:00</updated>
  <id>https://jiatong-blog.vercel.app/</id>
  <author>
    <name>Jiatong</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Opening Message</title>
-   <link href="https://jiatong-blog.vercel.app///2022/06/07/opening-message"/>
+   <link href="https://jiatong-blog.vercel.app///_posts/2022/06/07/opening-message"/>
    <updated>2022-06-07T00:00:00+00:00</updated>
-   <id>https://jiatong-blog.vercel.app//2022/06/07/opening-message</id>
+   <id>https://jiatong-blog.vercel.app//_posts/2022/06/07/opening-message</id>
    <content type="html">&lt;p&gt;This is my first blog post! I will create some awesome contents related to design, technology, and my thought to research soon after! Stay tuned!&lt;/p&gt;
 </content>
  </entry>
