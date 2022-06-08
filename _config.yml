@@ -4,7 +4,7 @@ greetings: Hi 👋
 description: Jiatong's Blog Post
 lang: en-US
 timezone:  Chicago
-repo: https://github.com/p0wex/Gesko # site repo [optional]
+repo: https://github.com/Logenleedev/Jiatong_Blog # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: ljt # replace with your disqus shortname
 
