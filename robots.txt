@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://Logenleedev.github.io/sitemap.xml
+Sitemap: https://jiatong-blog.vercel.app//sitemap.xml
