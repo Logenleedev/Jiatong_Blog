@@ -62,7 +62,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /Jiatong_Blog/:year/:month/:day/:slug
+    permalink: /jiatong-blog.vercel.app/Jiatong_Blog/:year/:month/:day/:slug
   
 defaults:
   -
